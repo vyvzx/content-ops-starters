@@ -263,7 +263,7 @@ sections:
         height="360" frameborder="0"    allowfullscreen></iframe>
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '4:3'
       styles:
