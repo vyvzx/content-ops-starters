@@ -3,7 +3,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "                         © Copyright 2024 | Todos os direitos reservados.\n",
+    "text": "```\n                  © Copyright 2024 | Todos os direitos reservados.\n```\n\n",
     "socialLinks": [
         {
             "altText": "GitHub link",
@@ -31,7 +31,7 @@
         }
     ],
     "legalLinks": [],
-    "copyrightText": "\n\n",
+    "copyrightText": "```\n                                 todos\n\n```\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
