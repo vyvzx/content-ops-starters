@@ -186,7 +186,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240727_0509110_1~2.jpg
+      - url: /images/baixados (1).jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
