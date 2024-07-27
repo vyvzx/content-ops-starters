@@ -395,7 +395,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
