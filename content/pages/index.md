@@ -297,7 +297,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'C:\Users\safftec\AppData\Local\CapCut\Videos\0614.mov'
+      url: ''
       autoplay: true
       loop: true
       muted: true
