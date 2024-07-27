@@ -264,7 +264,7 @@ sections:
       autoplay: true
       loop: true
       muted: false
-      controls: true
+      controls: false
       aspectRatio: '4:3'
       styles:
         self:
