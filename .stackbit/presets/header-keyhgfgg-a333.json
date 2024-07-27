@@ -1,0 +1,141 @@
+{
+    "model": "Header",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "keyhgfgg",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "hgf"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "header",
+                "title": null,
+                "logo": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Adobe_Express_20240216_0235410_1 (1).png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Logo dark",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "margin": [
+                                "mr-3"
+                            ]
+                        }
+                    }
+                },
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "Pricing",
+                        "altText": null,
+                        "url": "/pricing",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Blog",
+                        "altText": "Blog",
+                        "url": "/blog",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Careers",
+                        "altText": "Careers page",
+                        "url": "/careers",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "SubNav",
+                        "label": "Dropdown",
+                        "altText": "Dropdown",
+                        "links": [
+                            {
+                                "$$type": "Link",
+                                "label": "Dropdown item",
+                                "altText": null,
+                                "url": "/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            },
+                            {
+                                "$$type": "Link",
+                                "label": "Dropdown item",
+                                "altText": null,
+                                "url": "/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            },
+                            {
+                                "$$type": "Link",
+                                "label": "Dropdown item",
+                                "altText": null,
+                                "url": "/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            }
+                        ],
+                        "labelStyle": "secondary"
+                    }
+                ],
+                "secondaryLinks": [
+                    {
+                        "$$type": "Button",
+                        "label": "Sign up",
+                        "altText": "Sign up",
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Button",
+                        "label": "Log in",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "variant": "logo-centered-primary-nav-centered",
+                "colors": "bg-dark-fg-light",
+                "styles": null
+            },
+            "thumbnail": "images/header-keyhgfgg-a333.png"
+        }
+    ]
+}
