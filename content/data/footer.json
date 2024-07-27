@@ -31,7 +31,7 @@
         }
     ],
     "legalLinks": [],
-    "copyrightText": "                                                                           todos os direitos reservados\n",
+    "copyrightText": "```\n                                 todos\n\n```\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
