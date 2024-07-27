@@ -480,7 +480,7 @@ sections:
               - pr-9
             textAlign: left
             borderRadius: large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
       - type: FeaturedItem
         title: >-
