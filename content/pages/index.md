@@ -183,7 +183,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/Gladiator.jpeg
+      - url: /images/baixados (1).jpeg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
