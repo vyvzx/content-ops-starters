@@ -85,7 +85,7 @@
         }
     ],
     "legalLinks": [],
-    "copyrightText": "\\<div style=\"text-align: left\">###### Powered by\\</div>\n\n[Netlify Create](https://www.netlify.com/platform/create/)\n",
+    "copyrightText": "\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
