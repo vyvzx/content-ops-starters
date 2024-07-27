@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "> Powered by \n>\n> [Netlify Create](https://www.netlify.com/platform/create/)\n\n",
+    "copyrightText": "```\nPowered by\n```\n\n[Netlify Create](https://www.netlify.com/platform/create/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
