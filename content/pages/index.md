@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
           textDecoration: line-through
     subtitle: Subtitle goes here
     text: >
