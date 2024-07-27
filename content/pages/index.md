@@ -12,10 +12,17 @@ sections:
           fontWeight: 400
           textAlign: left
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      \<div style="text-align: left">A Netlify Create website is a git repo that
+      you own. Every code commit is instantly reflected in the visual editor and
+      since every visual edit is a git commit, git workflows and collaboration
+      just work.\</div>
+
+
+
+
+      ## ![](/images/Adobe_Express_20240727_0509110_1~2.jpg)
+
     actions:
       - label: Get started
         altText: ''
