@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Gladiator.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
