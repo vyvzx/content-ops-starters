@@ -193,8 +193,7 @@ sections:
       - url: /images/baixados (1).jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/a man in armor standing in front of a castle.jpeg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/baixados (2).jpeg
         altText: Sanity logo
