@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Se torne um homem forte e raro, em meios aos comuns e fracos.'
       color: text-light
       type: TitleBlock
       styles:
