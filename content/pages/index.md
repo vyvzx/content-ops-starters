@@ -189,7 +189,7 @@ sections:
       - url: /images/a man in armor standing in front of a castle.jpeg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/baixados (2).jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
