@@ -688,7 +688,7 @@ sections:
     title:
       type: TitleBlock
       text: Perguntas frequentes
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
