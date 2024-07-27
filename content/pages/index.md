@@ -687,7 +687,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Perguntas fre
+      text: Perguntas frequentes
       color: text-dark
       styles:
         self:
