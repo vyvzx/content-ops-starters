@@ -343,7 +343,7 @@ sections:
         src="https://player.vimeo.com/video/990896845?h=4de40ae4f4" width="640"
         height="360" frameborder="0"    allowfullscreen></iframe>
       controls: false
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
