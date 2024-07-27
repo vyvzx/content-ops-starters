@@ -949,7 +949,7 @@ sections:
   - type: DividerSection
     title: eai
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
