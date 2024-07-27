@@ -186,7 +186,7 @@ sections:
       - url: /images/baixados (1).jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/a man in armor standing in front of a castle.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
