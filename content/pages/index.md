@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/52b743e90564a537b0183964eca6f5f7.jpg
+      url: /images/Adobe_Express_20240727_0509110_1~2.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
