@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Se torne um homem forte e raro, em meios aos comuns e fracos.'
-      color: text-light
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
