@@ -1,7 +1,7 @@
 {
-    "light": "#ffffff",
-    "dark": "#4A4A4A",
-    "neutral": "#E8E8EB",
+    "light": "#d9d9e3",
+    "dark": "#000000",
+    "neutral": "#0000a7",
     "neutralAlt": "#DCDCDC",
     "primary": "#2a2a2a",
     "fontBody": "sans",
@@ -77,7 +77,7 @@
     "linkPrimary": {
         "weight": "normal",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wider",
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
