@@ -257,7 +257,10 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        <iframe title="vimeo-player"
+        src="https://player.vimeo.com/video/990896845?h=4de40ae4f4" width="640"
+        height="360" frameborder="0"    allowfullscreen></iframe>
       autoplay: true
       loop: true
       muted: true
