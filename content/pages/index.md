@@ -193,11 +193,9 @@ sections:
       - url: /images/baixados (1).jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/a man in armor standing in front of a castle.jpeg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
-      - url: /images/baixados (2).jpeg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
@@ -293,11 +291,24 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      o homem forte vai  e vence sem medo nehum o cara tem vue ser corajoso sem
+      do e piedade do seus atos sem recuar para tras porvue ele sabe realmmente
+      o vue precisaa ser feito e como ser feito a vida te dar oportubidades e
+      voce tem vue saber a aproveitar da melhor forma possivel para vue depois
+      nao tenha arrependimento nehum. o fato e voce veio avui entao tem vue
+      fazer algo signifucatio nao so para voce mais tambem para outras peesoas .
+      isso significa; ajudar em  alguma area expefoca no vual vai rsolver algum
+      problema e tornar a vida masi silmples de ser viida para ajudar na
+      evolucao de cada um de vue esta avui nesssa terra. voce save cono fazer  e
+      porvue a fzaer issso . voce tem as habilidades. os dons. o propossito do
+      seu obejietivo; sabe muito o motivo significativo e nao e so um sap varios
+      e isso ai se espe=alhar para pessoas e essas pessoas vao ajudar outrptras
+      tornando a a arvoerer da vida onde os frutos se tornam infifinitos para
+      amnbas, justamente por uma acao de se tornou de inifintos decccisoes e
+      acoes. tornando uma eolcao mental materials dependendo do ser no vual foi
+      advuirido avuele ato em si
+      decisaoooooooooooooooooooooooooooooooooooooooooo
     actions: []
     media:
       type: VideoBlock
