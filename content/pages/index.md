@@ -338,7 +338,10 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: ''
+      url: >-
+        <iframe title="vimeo-player"
+        src="https://player.vimeo.com/video/990896845?h=4de40ae4f4" width="640"
+        height="360" frameborder="0"    allowfullscreen></iframe>
       controls: false
       aspectRatio: '16:9'
       styles:
