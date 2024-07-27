@@ -223,7 +223,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
