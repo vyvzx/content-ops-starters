@@ -12,10 +12,17 @@ sections:
           fontWeight: 400
           textAlign: left
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      \<div style="text-align: left">A Netlify Create website is a git repo that
+      you own. Every code commit is instantly reflected in the visual editor and
+      since every visual edit is a git commit, git workflows and collaboration
+      just work.\</div>
+
+
+
+
+      ## ![](/images/Adobe_Express_20240727_0509110_1~2.jpg)
+
     actions:
       - label: Get started
         altText: ''
@@ -183,13 +190,13 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/baixados (1).jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/a man in armor standing in front of a castle.jpeg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/baixados (2).jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
@@ -856,6 +863,86 @@ sections:
           - pt-16
           - pl-3
           - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Flexible Pricing
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: This is the subtitle for the pricing section
+    plans:
+      - type: PricingPlan
+        title: Developers
+        price: Free
+        details: No credit card required
+        description: >-
+          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          accusantium doloremque.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Professional
+        price: $99
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          accusantium doloremque.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-dark-fg-light
+    styles:
+      self:
         justifyContent: center
       subtitle:
         textAlign: center
